@@ -1,7 +1,7 @@
 ---
-name: "apple-design"
-version: "1.0.0"
-description: "苹果设计原则与流体交互动效知识库，源自 WWDC 设计演讲，为 Web 平台翻译的 17 条交互设计原则"
+name: apple-design
+description: 苹果设计原则与流体交互动效知识库，源自 WWDC 设计演讲，为 Web 平台翻译的 17 条交互设计原则
+version: 1.0.1
 ---
 
 # Apple Design — 苹果交互设计原则
